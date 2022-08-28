@@ -74,16 +74,16 @@ echo '<br>';
 //============================= 5
 
 /*
-    1. $GLOBALS
-    2. $_SERVER
-    3. $_REQUEST
-    4. $_POST
-    5. $_GET
-    6. $_FILES
-    7. $_ENV
-    8. $_COOKIE
-    9. $_SESSION
-    10.$php_errormsg 
+    1. die
+    2. endswitch
+    3. include
+    4. function
+    5. echo
+    6. require_once
+    7. catch
+    8. trait
+    9. try
+    10. implements
 */
 <br>
 <hr>
