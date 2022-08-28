@@ -99,3 +99,10 @@ echo __DIR__;
 
 
 
+/* Link
+  ** https://www.php.net/manual/en/reserved.keywords.php
+  ** https://www.php.net/manual/en/reserved.variables.php
+  ** https://devbunch.com/2020/07/09/why-php-is-called-a-loosely-typed-language/
+  ** https://www.php.net/manual/en/language.references.whatare.php
+  ** https://www.toptal.com/php/objects-references-php-memory#:~:text=In%20PHP%2C%20references%20are%20not,numbers%20indicating%20a%20memory%20location.
+*/
